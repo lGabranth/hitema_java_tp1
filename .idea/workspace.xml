@@ -4,7 +4,7 @@
     <list default="true" id="1b17830b-5fa7-4eb4-a935-98cb0613df79" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/entites/Personne.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/essais/TestAdressePostale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/essais/TestPersonne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essais/TestPersonne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/essais/TestPersonne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
