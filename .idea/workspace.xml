@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b17830b-5fa7-4eb4-a935-98cb0613df79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/banque/entites/CompteTaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banque/TestOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banque/entites/Credit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banque/entites/Debit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banque/entites/Operation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banque/TestBanque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banque/TestBanque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banque/entites/Compte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banque/entites/Compte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banque/entites/CompteTaux.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banque/entites/CompteTaux.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +44,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.github.izhangzhihao.rainbow.brackets.settings.RainbowConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.TestBanque">
+  <component name="RunManager" selected="Application.TestOperation">
     <configuration name="TestBanque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banque.TestBanque" />
+      <module name="hitema_java_tp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banque.TestOperation" />
       <module name="hitema_java_tp1" />
       <extension name="coverage">
         <pattern>
@@ -71,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestOperation" />
         <item itemvalue="Application.TestBanque" />
         <item itemvalue="Application.TestPersonne" />
       </list>

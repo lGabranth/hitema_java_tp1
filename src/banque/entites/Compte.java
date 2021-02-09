@@ -12,6 +12,6 @@ public class Compte {
     }
 
     @Override public String toString() {
-        return "N°"+this.numCompte + " Solde : " + this.solde;
+        return "N°"+this.numCompte + " Solde : " + this.solde+".";
     }
 }

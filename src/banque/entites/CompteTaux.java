@@ -8,5 +8,5 @@ public class CompteTaux extends Compte {
         this.tx_remuneration = tx_remuneration;
     }
 
-    @Override public String toString() { return super.toString() + ". Le taux de rémunération est de " + this.tx_remuneration; }
+    @Override public String toString() { return super.toString() + " Le taux de rémunération est de " + this.tx_remuneration; }
 }
